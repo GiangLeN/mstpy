@@ -1,0 +1,11 @@
+https://www.google.com/search?q=draw+points+from+distance+matrix&rlz=1C1GCEU_nlNL922NL922&oq=draw+ponts+from+distance+&aqs=chrome.1.69i57j33i10i22i29i30l2.42833j1j7&sourceid=chrome&ie=UTF-8
+https://math.stackexchange.com/questions/1099562/calculate-points-coordinates-on-plane-from-their-distances-matrix
+https://math.stackexchange.com/questions/3870193/plot-data-points-according-to-the-pairwise-distance-matrix
+https://math.stackexchange.com/questions/100448/finding-location-of-a-point-on-2d-plane-given-the-distances-to-three-other-know
+https://math.stackexchange.com/questions/156161/finding-the-coordinates-of-points-from-distance-matrix
+
+https://stackoverflow.com/questions/18096783/using-distance-matrix-to-find-coordinate-points-of-set-of-points
+https://stackoverflow.com/questions/10963054/finding-the-coordinates-of-points-from-distance-matrix
+https://stackoverflow.com/questions/39988107/how-to-get-point-coordinates-from-distance-matrix
+https://stackoverflow.com/questions/17271509/coordinates-from-distance-matrix-in-r
+https://stackoverflow.com/questions/43062756/place-points-with-only-distance-matrix
